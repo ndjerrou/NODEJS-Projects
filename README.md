@@ -7,3 +7,7 @@
 ### A website completely made with nodejs from scractch ! 
 
 - See https://github.com/ndjerrou/node-farm
+
+### Get informations about the weather in your city !
+
+- See https://github.com/ndjerrou/weather-app
